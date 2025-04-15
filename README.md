@@ -23,4 +23,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prasunprabhat&show_icons=true&locale=en" alt="prasunprabhat" /></p>
 
-<p><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=PrasunPrabhat&theme=dark" alt="GitHub Streak" /></a></p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=PrasunPrabhat&theme=dark)](https://git.io/streak-stats)
