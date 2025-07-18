@@ -15,18 +15,160 @@
 
 - 📫 How to reach me **prasun2002kir@gmail.com**
 
-- 📄 Know about my experiences [RESUME](https://drive.google.com/file/d/1NgGz0CCdFyPRMX1_Z25B2384QNkZZYKE/view?usp=sharing)
+<a href="https://drive.google.com/file/d/1p-32e3lhQmdBIWiMvLLfPa-PZ3bPYOkE/view?usp=sharing" target="_blank">
+  <img src="https://img.shields.io/badge/📄 Resume-Click Here-blue?style=for-the-badge" alt="Resume" style="vertical-align: middle; margin-top:30px; border-radius: 8px;" height="40" />
+</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/prasun-prabhat-859838230/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/prasun-prabhat-859838230/" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/prasun-prabhat-859838230/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" style="vertical-align: middle;" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://prasun-portfoliodev.netlify.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio%20DEV-white?style=for-the-badge&logo=vercel&logoColor=black" alt="Portfolio Website" height="40" style="vertical-align: middle; border-radius: 8px;" />
+</a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+<h3 align="left">⚙️Languages and Tools:</h3>
+<table border="1" cellpadding="10" cellspacing="0">
+    <tr>
+      <th>Category</th>
+      <th>Technology / Skill</th>
+    </tr>
+    <tr>
+      <td><strong>Languages</strong></td>
+      <td>
+        <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white" alt="C++" >
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" >
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" >
+        <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white" alt="SQL" style="margin: 0 0 5px 0; display: inline-block;">
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5" >
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3" >
+        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" alt="TypeScript" >
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Libraries/Frameworks</strong></td>
+      <td>
+        <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" >
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React" >
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" alt="Next.js" >
+        <img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white" alt="Redux" >
+        <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" alt="Express.js" >
+        <img src="https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white" alt="React Router" >
+        <img src="https://img.shields.io/badge/ShadCN%20UI-black?style=flat&logo=shadcnui&logoColor=white" alt="ShadCN UI">
+        <img src="https://img.shields.io/badge/Context_API-61DAFB?style=flat&logo=react&logoColor=black" alt="Context API" >
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" alt="Node.js" >
+        <img src="https://img.shields.io/badge/Mongoose-880000?style=flat&logo=mongoose&logoColor=white" alt="Mongoose" >
+        <img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white" alt="Vite" >
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Databases</strong></td>
+      <td>
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB" >
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL">
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Tools</strong></td>
+      <td>
+        <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" alt="VS Code" >
+        <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" >
+        <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" >
+        <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" alt="Postman" >
+        <img src="https://img.shields.io/badge/Gemini_API-4285F4?style=flat&logo=google&logoColor=white" alt="Gemini API">
+        <img src="https://img.shields.io/badge/MS%20Word-2B579A?style=flat&logo=microsoftword&logoColor=white" alt="MS Word" style="margin: 0 0 5px 0; display: inline-block;" />
+        <img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white" alt="Power BI" style="margin: 0 0 5px 0; display: inline-block;">
+        <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" alt="Figma" />
+      </td>
+    </tr>
+    <tr>
+        <td><strong>Cloud & Hosting</strong></td>
+        <td>
+            <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white" alt="Netlify" style="margin: 0 0 5px 0; display: inline-block;">
+            <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white" alt="Vercel" style="margin: 0 0 5px 0; display: inline-block;">
+            <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white" alt="Cloudflare" style="margin: 0 0 5px 0; display: inline-block;">
+            <img src="https://img.shields.io/badge/Heroku-430098?style=flat&logo=heroku&logoColor=white" alt="Heroku" style="margin: 0 8px 5px 0; display: inline-block;" />
+          <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" alt="Firebase" style="margin: 0 8px 5px 0; display: inline-block;" />
+           <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white" alt="AWS" style="margin: 0 8px 5px 0; display: inline-block;" />
+  <img src="https://img.shields.io/badge/DigitalOcean-0080FF?style=flat&logo=digitalocean&logoColor=white" alt="DigitalOcean" style="margin: 0 8px 5px 0; display: inline-block;" />
+  <img src="https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white" alt="Nginx" style="margin: 0 8px 5px 0; display: inline-block;" />
+  <img src="https://img.shields.io/badge/Apache-D22128?style=flat&logo=apache&logoColor=white" alt="Apache" style="margin: 0 8px 5px 0; display: inline-block;" />
+        </td>
+      </tr>
+      <tr>
+        <td><strong>Networking</strong></td>
+        <td>
+             <img src="https://img.shields.io/badge/SAAS-00A99D?style=flat&logo=saas&logoColor=white" alt="SAAS" style="margin: 0 8px 5px 0; display: inline-block;" />
+    <img src="https://img.shields.io/badge/SSL/TLS-0082C9?style=flat&logo=letsencrypt&logoColor=white" alt="SSL/TLS" style="margin: 0 8px 5px 0; display: inline-block;" />
+    <img src="https://img.shields.io/badge/DNS-0088CC?style=flat&logo=cloudflare&logoColor=white" alt="DNS" style="margin: 0 8px 5px 0; display: inline-block;" />
+    <img src="https://img.shields.io/badge/Domain_Administration-006400?style=flat&logo=internet-explorer&logoColor=white" alt="Domain Administration" style="margin: 0 8px 5px 0; display: inline-block;" />
+    <img src="https://img.shields.io/badge/cPanel-FF6C2C?style=flat&logo=cpanel&logoColor=white" alt="cPanel" style="margin: 0 8px 5px 0; display: inline-block;" />
+    <img src="https://img.shields.io/badge/Apache-CA2132?style=flat&logo=apache&logoColor=white" alt="Apache" style="margin: 0 8px 5px 0; display: inline-block;" />
+    <img src="https://img.shields.io/badge/HTTP/HTTPS-0052CC?style=flat&logo=wireshark&logoColor=white" alt="HTTP/HTTPS" style="margin: 0 8px 5px 0; display: inline-block;" />
+    <img src="https://img.shields.io/badge/VPN-0066B8?style=flat&logo=protonvpn&logoColor=white" alt="VPN" style="margin: 0 8px 5px 0; display: inline-block;" />
+        </td>
+      </tr>
+    <tr>
+      <td><strong>Infrastructure & Dev Tools</strong></td>
+      <td>
+    <img src="https://img.shields.io/badge/CDN-0D47A1?style=flat&logo=cloudflare&logoColor=white" alt="CDN (Content Delivery Network)" style="margin: 0 0 5px 0; display: inline-block;">
+    <img src="https://img.shields.io/badge/VPS-4A154B?style=flat&logo=digitalocean&logoColor=white" alt="Virtual Private Server" style="margin: 0 0 5px 0; display: inline-block;">
+    <img src="https://img.shields.io/badge/Load_Balancer-FF9F1C?style=flat&logo=load-balancer&logoColor=white" alt="Load Balancer" style="margin: 0 0 5px 0; display: inline-block;">
+    <img src="https://img.shields.io/badge/Reverse_Proxy-007ACC?style=flat&logo=nginx&logoColor=white" alt="Reverse Proxy (NGINX)" style="margin: 0 0 5px 0; display: inline-block;">
+    <img src="https://img.shields.io/badge/API_Gateway-008080?style=flat&logo=api&logoColor=white" alt="API Gateway" style="margin: 0 0 5px 0; display: inline-block;">
+            <img src="https://img.shields.io/badge/IaaS-0061A8?style=flat&logo=azure&logoColor=white" alt="Infrastructure as a Service" style="margin: 0 8px 5px 0; display: inline-block;">
+    <img src="https://img.shields.io/badge/Monitoring-3F51B5?style=flat&logo=prometheus&logoColor=white" alt="Monitoring with Prometheus" style="margin: 0 8px 5px 0; display: inline-block;">
+      </td>
+    </tr>
+  </table>
+  <p>
+As a passionate <strong>Software Developer</strong>, I work with a wide range of languages, frameworks, and tools that help me build robust, efficient, and scalable solutions.
+From frontend technologies like <strong>HTML, CSS, and JavaScript</strong> to powerful backend environments like <strong>Node.js</strong> and <strong>MongoDB</strong>, I embrace full-stack development.
+I rely on <strong>Visual Studio Code</strong> for coding, <strong>Git & GitHub</strong> for version control, and tools like <strong>Postman</strong>, <strong>Figma</strong>, and <strong>Firebase</strong> for testing, UI/UX design, and backend services.
+I also work with <strong>React</strong>, <strong>Next.js</strong>, and <strong>Tailwind CSS</strong> for modern web apps, while managing deployments using <strong>Netlify</strong>, <strong>Vercel</strong>, and <strong>cPanel</strong>.
+My workflow is supported by strong networking and DevOps fundamentals like <strong>SSL/TLS</strong>, <strong>VPN</strong>, <strong>DNS</strong>, and <strong>Apache</strong>, ensuring secure and high-performance delivery.
+I keep evolving with tech trends and never stop exploring tools that help me grow as a developer.
+</p>
+<h3>🔧 Technologies & Tools I Frequently Use:</h3>
+<ul>
+  <li><strong>Frontend:</strong> HTML, CSS, JavaScript, React.js, Tailwind CSS, Next.js</li>
+  <li><strong>Backend:</strong> Node.js, Express.js, MongoDB, Firebase</li>
+  <li><strong>Design & Prototyping:</strong> Figma, Canva</li>
+  <li><strong>Dev Tools:</strong> Git, GitHub, VS Code, Postman</li>
+  <li><strong>Deployment:</strong> Netlify, Vercel, cPanel</li>
+  <li><strong>Others:</strong> npm, Yarn, JSON, REST APIs, Markdown, cPanel</li>
+</ul>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prasunprabhat&show_icons=true&locale=en&layout=compact" alt="prasunprabhat" /></p>
+<h2 align="center">📊 GitHub Stats</h2>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prasunprabhat&show_icons=true&locale=en" alt="prasunprabhat" /></p>
+<table align="center">
+  <tr>
+    <!-- GitHub Streak -->
+    <td align="center" style="padding: 10px; min-height: 200px;">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=PrasunPrabhat&theme=vision-friendly-dark&hide_border=false" alt="GitHub Streak Stats" />
+    </td>
+        <!-- GitHub Stats 1 -->
+    <td align="center" style="padding: 10px; min-height: 200px;">
+      <img src="https://github-readme-stats.vercel.app/api?username=PrasunPrabhat&show_icons=true&theme=dracula&hide=contribs&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+    </td>
+  </tr>
+
+  <tr>
+    <!-- Top Languages -->
+    <td colspan="2" align="center" style="padding: 10px; min-height: 200px;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrasunPrabhat&layout=compact&theme=chartreuse-dark" alt="Top Languages" />
+    </td>
+  </tr>
+
+  <tr>
+    <!-- GitHub Stats 2 (TokyoNight Theme) -->
+    <td colspan="2" align="center" style="padding: 10px; min-height: 200px;">
+      <img src="https://github-readme-stats.vercel.app/api?username=PrasunPrabhat&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false" height="150" alt="Prasun's GitHub Stats" />
+    </td>
+  </tr>
+</table>
 
 
