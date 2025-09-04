@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **prasun2002kir@gmail.com**
 
-<a href="https://drive.google.com/file/d/1p-32e3lhQmdBIWiMvLLfPa-PZ3bPYOkE/view?usp=sharing" target="_blank">
+<a href="https://drive.google.com/file/d/1r4IIwqwGgOZiCiV6zRMQzOiXRza1EMa3/view?usp=sharing" target="_blank">
   <img src="https://img.shields.io/badge/📄 Resume-Click Here-blue?style=for-the-badge" alt="Resume" style="vertical-align: middle; margin-top:30px; border-radius: 8px;" height="40" />
 </a>
 
